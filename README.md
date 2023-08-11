@@ -1,3 +1,5 @@
+**##About**
+This is an Angular Application that displays a screen that shows all the persons with their relation to one another. When any person is selected, the application should display all the details such as name, height, scenes, synopsis, notes, body type, and photos in the form of a carousel.
 # RelationApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
